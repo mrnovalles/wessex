@@ -1,0 +1,11 @@
+%{"cowboy": {:hex, :cowboy, "1.0.0"},
+  "cowlib": {:hex, :cowlib, "1.0.1"},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "49f335492aca5516495199dd81dd18b845ebaa69", []},
+  "lhttpc": {:git, "git://github.com/lastres/lhttpc.git", "6c5980fc41e162fd5a2945f845c98b9d3b1758af", [branch: "master"]},
+  "locker": {:git, "git://github.com/wooga/locker.git", "4382c005a6ba184e7077e8cfde9fc30f3d9fee04", [ref: "4382c005a6ba184e7077e8cfde9fc30f3d9fee04"]},
+  "meck": {:git, "git://github.com/eproxus/meck.git", "98cdc40fe6ae7780491ed8d0db691dd15625e9b2", [branch: "master"]},
+  "plug": {:hex, :plug, "0.9.0"},
+  "proper": {:git, "https://github.com/manopapad/proper.git", "87e4a56e8f97f1972cde44ed30500daa4641595f", [tag: "v1.1"]},
+  "ranch": {:hex, :ranch, "1.0.0"},
+  "s3erl": {:git, "git://github.com/zucaritask/s3erl", "372228972fb3068967fd00129c5ee5cf7f6e883f", [branch: "lhttpc-change"]},
+  "wes": {:git, "git://github.com/zucaritask/wes.git", "a6c724da4084e4d8e6e6de7cbe7b9131e487a44d", []}}
